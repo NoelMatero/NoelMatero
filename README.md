@@ -1,4 +1,4 @@
-## I'M PLANNING SOMETHING   BIG   💡   
+## PLANNING SOMETHING   BIG   💡   
 
 <!--
 **NoelMatero/NoelMatero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
