@@ -8,8 +8,10 @@
   </a>
 </p>
 
+## TECH STACK  
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,regex,vite" />
+    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,regex,vite, redis" />
   </a>
 </p>
