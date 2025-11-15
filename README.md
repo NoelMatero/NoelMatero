@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-TECH STACK
+CORE STACK
 </p>
 
 <p align="center">
