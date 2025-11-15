@@ -15,7 +15,8 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 <h2 align="center">FAVOURITE PROJECTS:</h2>
 
-## Orangutan: 
+<h3 align="center">Orangutan</h3>
+
 - A lightweight and SUPER simple rust web server library inspired by Python's Flask.
 
 <h1 align="center">TECH STACK</h1>
