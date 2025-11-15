@@ -15,9 +15,9 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 # Favourite Projects:
 
+<h1 align="center">TECH STACK</h1>
 
-
-<h1 align="center">CORE STACK</h1>
+<h2 align="center">CORE STACK</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   </a>
 </p>
 
-<h1 align="center">WORKING KNOWLEDGE</h1>
+<h2 align="center">WORKING KNOWLEDGE</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
