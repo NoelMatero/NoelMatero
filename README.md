@@ -17,9 +17,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 
 
-<p align="center">
-CORE STACK
-</p>
+<h1 align="center">CORE STACK</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
