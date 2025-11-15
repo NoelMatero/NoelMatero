@@ -8,7 +8,7 @@
 noelmatero@fedora:~$ whoami
 A student & A Passionate Software Engineer Who Loves Rust
 
-noelmatero@fedora:~$ cat aobutme.toml
+noelmatero@fedora:~$ cat aboutme.toml
 [skills]
 ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineering", "Problem Solving"]
 ```
