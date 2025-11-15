@@ -13,7 +13,7 @@ noelmatero@fedora:~$ cat aboutme.toml
 ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineering", "Problem Solving"]
 ```
 
-<h1 align="center">FAVOURITE PROJECTS:</h1>
+<h2 align="center">FAVOURITE PROJECTS:</h2>
 
 ## Orangutan: 
 - A lightweight and SUPER simple rust web server library inspired by Python's Flask.
