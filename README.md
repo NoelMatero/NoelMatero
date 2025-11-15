@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-FAVOURITE TOOLS
+TECH STACK
 </p>
 
 <p align="center">
@@ -13,7 +13,11 @@ FAVOURITE TOOLS
 </p>
 
 <p align="center">
+WORKING KNOWLEDGE
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,redis,java" />
+    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,redis,java,html,css" />
   </a>
 </p>
