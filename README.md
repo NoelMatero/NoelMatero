@@ -7,11 +7,8 @@ noelmatero@fedora:~$ whoami
 A student & A Passionate Software Engineer Who Loves Rust
 
 noelmatero@fedora:~$ cat aboutme.toml
-```
-
-```toml
 [skills]
-PCB design, Robotics, Competetive Programming, Software Engineering, Building Cool Stuff
+ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineering"]
 ```
 
 <p align="center">
