@@ -3,10 +3,9 @@
 </p>
 
 ```console
-foo@bar:~$ whoami
-foo
+noelmatero@fedora:~$ whoami
+test
 ```
-
 
 <p align="center">
 CORE STACK
