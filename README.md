@@ -5,6 +5,9 @@
 ```console
 noelmatero@fedora:~$ whoami
 A student & A Passionate Software Engineer Who Loves Rust
+
+noelmatero@fedora:~$ cat skills
+PCB design, Robotics, Competetive Programming, Software Engineering, Building Cool Stuff
 ```
 
 <p align="center">
