@@ -17,8 +17,6 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 <h1 align="center">TECH STACK</h1>
 
-<h2 align="center">CORE STACK</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,js,nodejs,raspberrypi,sqlite,python,redis,nginx" />
