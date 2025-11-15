@@ -8,7 +8,7 @@ FAVOURITE TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,html,css,js,nodejs,raspberrypi,arduino,python,debian,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,js,nodejs,raspberrypi,arduino,python,debian,nginx" />
   </a>
 </p>
 
