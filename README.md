@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=400&color=dadada&text=PLANNING%20SOMETHING%20BIG&section=header&reversal=false&textBg=false&fontSize=63&fontAlign=50&animation=fadeIn&fontColor=dadada&stroke=dadada&strokeWidth=7"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=400&color=dadada&text=WELCOME,%20I%20AM%20NOEL%20MATERO&section=header&reversal=false&textBg=false&fontSize=63&fontAlign=50&animation=fadeIn&fontColor=dadada&stroke=dadada&strokeWidth=7"/>
 </p>
 
 ```console
