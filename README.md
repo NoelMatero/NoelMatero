@@ -8,7 +8,7 @@ TECH STACK
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,js,nodejs,raspberrypi,sqlite,python,redis,nginx,npm" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,js,nodejs,raspberrypi,sqlite,python,redis,nginx" />
   </a>
 </p>
 
@@ -18,6 +18,6 @@ WORKING KNOWLEDGE
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css" />
+    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css,react,vite,aws" />
   </a>
 </p>
