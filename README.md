@@ -25,9 +25,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   </a>
 </p>
 
-<p align="center">
-WORKING KNOWLEDGE
-</p>
+<h1 align="center">WORKING KNOWLEDGE</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
