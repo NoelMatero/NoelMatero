@@ -9,6 +9,11 @@ A student & A Passionate Software Engineer Who Loves Rust
 noelmatero@fedora:~$ cat aboutme.toml
 ```
 
+```toml
+[skills]
+PCB design, Robotics, Competetive Programming, Software Engineering, Building Cool Stuff
+```
+
 <p align="center">
 CORE STACK
 </p>
