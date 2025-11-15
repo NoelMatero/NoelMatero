@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-TECH STACK  
+FAVOURITE TOOLS
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,html,css,js,nodejs,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,html,css,js,nodejs,raspberrypi,arduino,python,debian,nginx" />
   </a>
 </p>
 
