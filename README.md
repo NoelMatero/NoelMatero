@@ -4,7 +4,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-test
+A student & A Software Engineer Who Loves Rust
 ```
 
 <p align="center">
