@@ -8,12 +8,12 @@ TECH STACK
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,html,css,js,nodejs,react,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,html,css,js,nodejs,raspberrypi,arduino" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,regex,vite,redis" />
+    <img src="https://skillicons.dev/icons?i=nginx,debian,sqlite,github,python,flask,npm,redis,java" />
   </a>
 </p>
