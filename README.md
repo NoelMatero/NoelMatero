@@ -7,6 +7,7 @@
 ```console
 noelmatero@fedora:~$ whoami
 A disciplined maker obsessed with building real things — from code to circuits.
+```
 
 <h1 align="center">Favourite Projects:</h1>
 
