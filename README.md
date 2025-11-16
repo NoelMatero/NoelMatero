@@ -20,6 +20,8 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 </h3>
 
 - A Lightweight And a Super Simple Rust Web Server Library Inspired By Python's Flask.
+- Goal Was To Learn More About Asynchronus Programming And Network Programming.
+- Orangutan Is An Open-Source Library Listed in crates.io With Over 5000+ Downloads!
 
 <h1 align="center">TECH STACK</h1>
 
