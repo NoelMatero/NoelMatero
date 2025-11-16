@@ -19,7 +19,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   <a href="https://crates.io/crates/orangutan">🐒 Orangutan 🐒</a>
 </h3>
 
-- A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask.
+- A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Over 5000+ downloads in crates.io!
 
 <h3 align="center">
   <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">⌚  DIY Smartwatch 🔋</a>
