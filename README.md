@@ -6,30 +6,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-A student & A Passionate Software Engineer Who Loves Rust
-
-noelmatero@fedora:~$ cat aboutme.toml
-```
-```toml
-[location]
-country = "Finland"
-city = "Helsinki"
-
-[interests]
-current = ["Networking", "Async Systems", "Server Design"]
-
-[skills.systems]
-domains = ["Distributed Systems", "Infra Tooling", "Local-to-Cloud Workflows"]
-
-[skills.embedded]
-hardware = ["PCB Design", "ESP32 Development", "Power Management", "Low-Level Programming"]
-
-[skills.builder]
-strengths = ["Rapid Prototyping", "Open Source", "Architecture", "Problem Solving"]
-
-[experience]
-fields = ["Robotics", "Competitive Programming", "Embedded Systems", "Software Engineering"]
-```
+A disciplined maker obsessed with building real things — from code to circuits.
 
 <h1 align="center">Favourite Projects:</h1>
 
