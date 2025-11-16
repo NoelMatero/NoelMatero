@@ -21,9 +21,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 - A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask.
 - Orangutan was created as a deep-dive into asynchronous architectures, network programming, and the internals of HTTP handling—while trying keeping the developer experience as straightforward as possible.
-
--Despite its simplicity, Orangutan is a fully open-source project published on crates.io, where it has already surpassed 5,000 downloads. It aims to provide a clear, educational codebase for anyone interested in how web servers work under the hood, while remaining practical for small projects and experimentation.
-
+- Despite its simplicity, Orangutan is a fully open-source project published on crates.io, where it has already surpassed 5,000 downloads.
 <h1 align="center">TECH STACK</h1>
 
 <p align="center">
