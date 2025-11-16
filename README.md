@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=dadada&text=I%20AM%20NOEL%20MATERO&section=header&reversal=false&textBg=false&fontSize=45&fontAlign=50&animation=fadeIn&fontColor=dadada&stroke=dadada&strokeWidth=4.5"/>
 </p>
 
-# About me:
-
 ```console
 noelmatero@fedora:~$ whoami
 A disciplined maker obsessed with building real things — from code to circuits.
