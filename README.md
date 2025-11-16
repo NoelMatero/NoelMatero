@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=dadada&text=WELCOME,%20I%20AM%20NOEL%20MATERO&section=header&reversal=false&textBg=false&fontSize=55&fontAlign=50&animation=fadeIn&fontColor=dadada&stroke=dadada&strokeWidth=5"/>
 </p>
 
+<h2 align="center">Noel Matero</h2>
+
 # About me:
 
 ```console
