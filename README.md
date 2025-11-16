@@ -13,7 +13,7 @@ noelmatero@fedora:~$ cat aboutme.toml
 ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineering", "Problem Solving"]
 ```
 
-<h2 align="center">FAVOURITE PROJECTS:</h2>
+# FAVOURITE PROJECTS:
 
 <h3 align="center">Orangutan</h3>
 
