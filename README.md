@@ -25,7 +25,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">⌚  DIY Smartwatch 🔋</a>
 </h3>
 
-- A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems.
+- A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA.
 
 <h1 align="center">TECH STACK</h1>
 
