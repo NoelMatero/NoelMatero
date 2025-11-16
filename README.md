@@ -4,7 +4,7 @@
 
 # About me:
 
-```console
+```toml
 noelmatero@fedora:~$ whoami
 A student & A Passionate Software Engineer Who Loves Rust
 
