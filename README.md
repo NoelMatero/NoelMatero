@@ -4,11 +4,13 @@
 
 # About me:
 
-```toml
+```console
 noelmatero@fedora:~$ whoami
 A student & A Passionate Software Engineer Who Loves Rust
 
 noelmatero@fedora:~$ cat aboutme.toml
+```
+```toml
 [location]
 country = "Finland"
 city = "Helsinki"
