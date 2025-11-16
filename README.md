@@ -27,9 +27,9 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">DIY Smartwatch</a>
 </h3>
 
-A custom DIY smartwatch PCB built to explore electronics, low-level programming, and embedded systems.
-Features an ESP32, touchscreen support, GSM/GPRS connectivity, and a full battery management system.
-Designed for learning and experimentation — schematics and layouts are available on OSHWlab.
+- A custom DIY smartwatch PCB built to explore electronics, low-level programming, and embedded systems.
+- Features an ESP32, touchscreen support, GSM/GPRS connectivity, and a full battery management system.
+- Designed for learning and experimentation — schematics and layouts are available on OSHWlab and my Github.
 
 <h1 align="center">TECH STACK</h1>
 
