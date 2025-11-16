@@ -13,7 +13,7 @@ noelmatero@fedora:~$ cat aboutme.toml
 ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineering", "Problem Solving"]
 ```
 
-<h1 align="center">FAVOURITE PROJECTS:</h1>
+<h1 align="center">Favourite Projects:</h1>
 
 <h3 align="center">
   <a href="https://crates.io/crates/orangutan">🐒 Orangutan 🐒</a>
@@ -27,7 +27,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 
 - A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA.
 
-<h1 align="center">TECH STACK</h1>
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
   </a>
 </p>
 
-<h2 align="center">WORKING KNOWLEDGE</h2>
+<h2 align="center">Working Knowledge</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
