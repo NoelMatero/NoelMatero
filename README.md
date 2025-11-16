@@ -22,6 +22,15 @@ ares = ["PCB design", "Robotics", "Competetive Programming", "Software Engineeri
 - A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask.
 - Orangutan was created as a deep-dive into asynchronous architectures, network programming, and the internals of HTTP handling—while trying keeping the developer experience as straightforward as possible.
 - Despite its simplicity, Orangutan is a fully open-source project published on crates.io, where it has already surpassed 5,000 downloads.
+
+<h3 align="center">
+  <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">DIY Smartwatch</a>
+</h3>
+
+A custom DIY smartwatch PCB built to explore electronics, low-level programming, and embedded systems.
+Features an ESP32, touchscreen support, GSM/GPRS connectivity, and a full battery management system.
+Designed for learning and experimentation — schematics and layouts are available on OSHWlab.
+
 <h1 align="center">TECH STACK</h1>
 
 <p align="center">
