@@ -39,8 +39,7 @@ A disciplined maker obsessed with building real things — from code to circuits
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/noelmatero">LinkedIn</a> •
+  <a href="https://fi.linkedin.com/in/matero-noel-70b414390">LinkedIn</a> •
   <a href="mailto:youremail@example.com">Email</a> •
-  <a href="https://twitter.com/noelmatero">Twitter</a>
 </p>
 
