@@ -37,6 +37,10 @@ A disciplined engineer obsessed with building real things — from code to circu
   </a>
 </p>
 
+<h1 align="center">About Me:</h1>
+
+I'm a passionate high school student focused on building real things, not just code. Feel free to contact me if you have any questions. 
+
 <h2 align="center">Get in Touch</h2>
 <p align="center">
   <a href="https://fi.linkedin.com/in/matero-noel">LinkedIn</a> •
