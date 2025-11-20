@@ -22,7 +22,7 @@ A disciplined engineer obsessed with building real things — from code to circu
 - A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA.
 
 <h3 align="center">
-  <a href="https://github.com/NoelMatero/FGC-2025-FINLAND"> FIRST Global Challenge — Robotics Control Software </a>
+  <a href="https://github.com/NoelMatero/FGC-2025-FINLAND"> <span class="flag-de"></span> FIRST Global Challenge — Robotics Control Software <span class="flag-de"></span></a>
 </h3>
 
 - Developed the control software for Team Finland’s robot in the FIRST Global Challenge, including a full PID control system and a soft-start mechanism.
