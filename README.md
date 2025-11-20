@@ -25,6 +25,7 @@ A disciplined engineer obsessed with building real things — from code to circu
   <a href="https://github.com/NoelMatero/FGC-2025-FINLAND">
     <img src="https://flagcdn.com/pa.svg" width="28" style="vertical-align: middle; margin-right: 6px;">
     FIRST Global Challenge — Robotics Control Software
+    <img src="https://flagcdn.com/pa.svg" width="28" style="vertical-align: middle; margin-left: 6px;">
   </a>
 </h3>
 
