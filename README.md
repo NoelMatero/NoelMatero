@@ -10,22 +10,20 @@ A disciplined engineer obsessed with building real things — from code to circu
 <h1 align="center">Favourite Projects:</h1>
 
 <h3 align="center">
-  <a href="https://crates.io/crates/orangutan">🐒 Orangutan 🐒</a>
+  <a href="https://crates.io/crates/orangutan"> Orangutan </a>
 </h3>
 
 - A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Over 5000+ downloads in crates.io!
 
 <h3 align="center">
-  <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">⌚  DIY Smartwatch 🔋</a>
+  <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">  DIY Smartwatch </a>
 </h3>
 
 - A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA.
 
 <h3 align="center">
-  <a href="https://github.com/NoelMatero/FGC-2025-FINLAND">
-    <img src="https://flagcdn.com/pa.svg" width="28" style="vertical-align: middle; margin-right: 6px;">
-    FIRST Global Challenge — Robotics Control Software
-    <img src="https://flagcdn.com/pa.svg" width="28" style="vertical-align: middle; margin-left: 6px;">
+  <a href="https://github.com/NoelMatero/FGC-2025-FINLAND">    
+    FIRST Global Challenge — Robotics Control Software    
   </a>
 </h3>
 
