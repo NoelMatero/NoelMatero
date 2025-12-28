@@ -43,7 +43,7 @@ A disciplined engineer obsessed with building real things — from code to circu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css,react,vite,aws,vercel,nango,inngest" />
+    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css,react,vite,aws,vercel,ts" />
   </a>
 </p>
 
