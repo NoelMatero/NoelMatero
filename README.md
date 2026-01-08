@@ -36,8 +36,6 @@ A disciplined engineer obsessed with building real things — from code to circu
   <a> Something Secret... </a>
 </h3>
 
-- Hint: tbd
-
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
