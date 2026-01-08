@@ -30,6 +30,13 @@ A disciplined engineer obsessed with building real things — from code to circu
 
 - Developed the control software for Team Finland’s robot in the FIRST Global Challenge, including a full PID control system and a soft-start mechanism.
 
+<h1 align="center">Currently Working On:</h1>
+
+<h3 align="center">
+  <a href="https://crates.io/crates/orangutan"> Something Secret... </a>
+</h3>
+
+- Hint: tbd
 
 <h1 align="center">Tech Stack</h1>
 
