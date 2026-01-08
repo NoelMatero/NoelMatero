@@ -33,7 +33,7 @@ A disciplined engineer obsessed with building real things — from code to circu
 <h1 align="center">Currently Working On:</h1>
 
 <h3 align="center">
-  <a href="https://crates.io/crates/orangutan"> Something Secret... </a>
+  <a> Something Secret... </a>
 </h3>
 
 - Hint: tbd
