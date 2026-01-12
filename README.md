@@ -40,7 +40,7 @@ A disciplined engineer obsessed with building real things — from code to circu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,cpp,docker,git,gcp,js,nodejs,raspberrypi,sqlite,python,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,docker,git,gcp,js,nodejs,raspberrypi,sqlite,python,redis,nginx" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ A disciplined engineer obsessed with building real things — from code to circu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css,vite,aws,vercel,ts" />
+    <img src="https://skillicons.dev/icons?i=flask,npm,java,html,css,vite,aws,vercel,ts,cpp" />
   </a>
 </p>
 
