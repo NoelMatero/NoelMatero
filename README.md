@@ -62,4 +62,4 @@ I'm a passionate high school student focused on building real things, not just c
   <a href="mailto:noelbenjaminmatero@gmail.com">Email</a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoelMatero&show_icons=true)
+![Metrics](https://github.com/lowlighter/metrics/blob/master/github-metrics.svg)
