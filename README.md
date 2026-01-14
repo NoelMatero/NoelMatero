@@ -61,5 +61,3 @@ I'm a passionate high school student focused on building real things, not just c
   <a href="https://fi.linkedin.com/in/matero-noel">LinkedIn</a> •
   <a href="mailto:noelbenjaminmatero@gmail.com">Email</a>
 </p>
-
-![Metrics](https://github.com/lowlighter/metrics/blob/master/github-metrics.svg)
