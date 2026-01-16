@@ -58,6 +58,6 @@ I'm a passionate high school student focused on building real things, not just c
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
-  <a href="https://fi.linkedin.com/in/matero-noel">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/matero-noel-70b414390">LinkedIn</a> •
   <a href="mailto:noelbenjaminmatero@gmail.com">Email</a>
 </p>
