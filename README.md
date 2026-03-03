@@ -57,9 +57,9 @@ An 18yr builder planning something big. Hard & ambitious projects are the most i
   </a>
 </p>
 
-<h1 align="center">About Me:</h1>
+<h1 align="center">About me:</h1>
 
-I'm a passionate high school student focused on building real things, not just code. Feel free to contact me.
+In high school for now, been planning what to do next. Feel free to contact me !  
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
