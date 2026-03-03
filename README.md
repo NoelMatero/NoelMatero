@@ -9,7 +9,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-A disciplined engineer obsessed with building real things — from code to circuits.
+An 18yr builder planning something big. Hard & ambitious projects are the most interesting, not AI wrappers. 
 ```
 
 <h1 align="center">Favourite Projects:</h1>
