@@ -9,7 +9,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-An 18yr builder planning something big. Hard & ambitious projects are the most interesting, not AI wrappers. 
+An 18yr builder planning something big. Hard & ambitious projects are the most interesting. 
 ```
 
 <h1 align="center">Favourite Projects:</h1>
