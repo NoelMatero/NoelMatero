@@ -35,12 +35,6 @@ An 18yr builder planning something big. Hard & ambitious projects are the most i
 
 - Developed the control software for Team Finland’s robot in the FIRST Global Challenge, including a full PID control system and a soft-start mechanism.
 
-<h1 align="center">Currently Working On:</h1>
-
-<h3 align="center">
-  <a> Researching a potential Idea... </a>
-</h3>
-
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
