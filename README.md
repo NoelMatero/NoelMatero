@@ -24,7 +24,7 @@ An 18yo builder planning something big. Hard & ambitious projects are the most i
   <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">  DIY Smartwatch </a>
 </h3>
 
-- A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA.
+- A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA. Built by myself from scratch at 15
 
 <h3 align="center">
   <a href="https://github.com/NoelMatero/FGC-2025-FINLAND">    
