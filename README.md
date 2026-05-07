@@ -35,7 +35,7 @@ An 18yo builder planning something big. Hard & ambitious projects are the most i
 
 - Developed the control software for Team Finland’s robot in the world's largest robotics competition, including a full PID control system and a soft-start mechanism. Placed 25th / 181 countries
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">What I use everyday</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
