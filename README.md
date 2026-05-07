@@ -39,7 +39,7 @@ An 18yo builder planning something big. Hard & ambitious projects are the most i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,docker,git,gcp,js,nodejs,sqlite,python,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,bash,rust,docker,git" />
   </a>
 </p>
 
