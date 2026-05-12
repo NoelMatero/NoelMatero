@@ -15,7 +15,7 @@ An 18yo builder planning something big. Hard & ambitious projects are the most i
 <h1 align="center">Favourite Projects:</h1>
 
 <h3 align="center">
-  <a href="https://crates.io/crates/orangutan"> Orangutan </a>
+  <a href="https://github.com/NoelMatero/orangutan/"> Orangutan </a>
 </h3>
 
 - A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Over 10k+ downloads in crates.io!
