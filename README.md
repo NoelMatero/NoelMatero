@@ -9,7 +9,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-18yo swe. interested and enthusiastic about understanding how things work under the hood - love low level things and rust 
+18yo swe. enthusiastic about understanding how things work under the hood - love low level things and rust 
 ```
 
 <h1 align="center">Favourite Projects:</h1>
