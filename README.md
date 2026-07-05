@@ -9,7 +9,7 @@
 
 ```console
 noelmatero@fedora:~$ whoami
-An 18yo builder planning something big. Hard & ambitious projects are the most interesting. 
+18yo swe. interested and enthusiastic about understanding how things work under the hood - love low level things and rust 
 ```
 
 <h1 align="center">Favourite Projects:</h1>
