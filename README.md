@@ -21,7 +21,7 @@ noelmatero@fedora:~$ whoami
 - A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Over 10k+ downloads in crates.io!
 
 <h3 align="center">
-  <a href="https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27">  DIY Smartwatch </a>
+  <a href="https://github.com/NoelMatero/DemoSmartWatch/">  DIY Smartwatch </a>
 </h3>
 
 - A custom DIY smartwatch PCB built to explore electronics, PCB-designing, and embedded systems using EasyEDA. Built by myself from scratch at 15
