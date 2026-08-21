@@ -18,7 +18,7 @@ noelmatero@fedora:~$ whoami
   <a href="https://github.com/NoelMatero/orangutan/"> Orangutan </a>
 </h3>
 
-- A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Over 10k+ downloads in crates.io!
+- A lightweight, minimalistic Rust web server framework inspired by the simplicity and elegance of Python’s Flask. Built with MIO: the lowest level of abstration over the OS in rust. Over 10k+ downloads in crates.io!
 
 <h3 align="center">
   <a href="https://github.com/NoelMatero/DemoSmartWatch/">  DIY Smartwatch </a>
