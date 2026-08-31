@@ -50,5 +50,5 @@ In high school for now, been planning what to do next. Feel free to contact me !
 <h2 align="center">Get in Touch</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/matero-noel-70b414390">LinkedIn</a> •
-  <a href="mailto:noelbenjaminmatero@gmail.com">Email</a>
+  <a href="mailto:noel@noelmatero.com">Email</a>
 </p>
